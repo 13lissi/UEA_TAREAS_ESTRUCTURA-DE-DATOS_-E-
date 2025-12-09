@@ -1,0 +1,15 @@
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\bin\Debug\net10.0\TareaSemana2.exe
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\bin\Debug\net10.0\TareaSemana2.deps.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\bin\Debug\net10.0\TareaSemana2.runtimeconfig.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\bin\Debug\net10.0\TareaSemana2.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\bin\Debug\net10.0\TareaSemana2.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.AssemblyInfoInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.AssemblyInfo.cs
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.sourcelink.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\refint\TareaSemana2.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\TareaSemana2.genruntimeconfig.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana2\obj\Debug\net10.0\ref\TareaSemana2.dll
