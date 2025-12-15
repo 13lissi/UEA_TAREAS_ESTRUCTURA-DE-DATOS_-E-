@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TareaSemana2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eebef5e4f7019c4f8cc48fe3e93c78ffaf00711")]
-[assembly: System.Reflection.AssemblyProductAttribute("TareaSemana2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TareaSemana2")]
+[assembly: System.Reflection.AssemblyProductAttribute("UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-")]
+[assembly: System.Reflection.AssemblyTitleAttribute("UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

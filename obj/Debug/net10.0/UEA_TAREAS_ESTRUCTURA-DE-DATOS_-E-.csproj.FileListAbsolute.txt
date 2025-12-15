@@ -1,0 +1,5 @@
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\obj\Debug\net10.0\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\obj\Debug\net10.0\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-.AssemblyInfoInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\obj\Debug\net10.0\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-.AssemblyInfo.cs
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\obj\Debug\net10.0\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\obj\Debug\net10.0\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-.sourcelink.json
