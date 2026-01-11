@@ -14,7 +14,7 @@ namespace TareaSemana5
             // Lectura de los números
             for (int i = 0; i < 6; i++)
             {
-                numeros.Add(int.Parse(Console.ReadLine()));
+                numeros.Add(int.Parse(Console.ReadLine() ?? "0"));
             }
 
             // Ordena de menor a mayor
