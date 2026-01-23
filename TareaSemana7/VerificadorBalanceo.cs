@@ -5,9 +5,8 @@ namespace TareaSemana7
 {
     class VerificadorBalanceo
     {
-        /// <summary>
         /// Verifica si los símbolos están correctamente balanceados
-        /// </summary>
+       
         public static bool EstaBalanceada(string expresion)
         {
             Stack<char> pila = new Stack<char>();
