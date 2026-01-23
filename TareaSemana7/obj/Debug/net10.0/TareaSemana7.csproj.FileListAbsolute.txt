@@ -1,0 +1,15 @@
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\bin\Debug\net10.0\TareaSemana7.exe
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\bin\Debug\net10.0\TareaSemana7.deps.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\bin\Debug\net10.0\TareaSemana7.runtimeconfig.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\bin\Debug\net10.0\TareaSemana7.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\bin\Debug\net10.0\TareaSemana7.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.AssemblyInfoInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.AssemblyInfo.cs
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.sourcelink.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\refint\TareaSemana7.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\TareaSemana7.genruntimeconfig.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana7\obj\Debug\net10.0\ref\TareaSemana7.dll
