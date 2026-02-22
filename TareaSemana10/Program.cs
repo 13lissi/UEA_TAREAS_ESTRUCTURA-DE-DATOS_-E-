@@ -83,7 +83,7 @@ namespace TareaSemana10
                 Console.WriteLine(citizen);
             }
 
-            Console.WriteLine("\nPresione una tecla para volver al menú...");
+            Console.WriteLine("\nPresione una tecla para volver al menú....");
             Console.ReadKey();
         }
     }
