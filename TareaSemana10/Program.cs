@@ -34,7 +34,7 @@ namespace TareaSemana10
                 Console.WriteLine("---------------------------------------------");
                 Console.Write("Seleccione una opción: ");
 
-                string option = Console.ReadLine();
+                string? option = Console.ReadLine();
 
                 switch (option)
                 {

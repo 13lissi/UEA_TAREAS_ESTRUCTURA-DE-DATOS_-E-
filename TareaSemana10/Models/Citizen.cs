@@ -16,7 +16,7 @@ namespace TareaSemana10.Models
         }
 
         // Dos ciudadanos son iguales si tienen el mismo Id.
-        public override bool Equals(object obj)
+        public override bool Equals(object? obj)
         {
             if (obj is Citizen other)
             {
