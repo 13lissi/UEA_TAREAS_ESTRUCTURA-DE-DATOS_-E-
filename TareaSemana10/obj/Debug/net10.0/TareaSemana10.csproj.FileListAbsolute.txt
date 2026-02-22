@@ -1,0 +1,15 @@
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\bin\Debug\net10.0\TareaSemana10.exe
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\bin\Debug\net10.0\TareaSemana10.deps.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\bin\Debug\net10.0\TareaSemana10.runtimeconfig.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\bin\Debug\net10.0\TareaSemana10.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\bin\Debug\net10.0\TareaSemana10.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.AssemblyInfoInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.AssemblyInfo.cs
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.sourcelink.json
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\refint\TareaSemana10.dll
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.pdb
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\TareaSemana10.genruntimeconfig.cache
+C:\Users\corne\OneDrive\Documentos\GitHub\UEA_TAREAS_ESTRUCTURA-DE-DATOS_-E-\TareaSemana10\obj\Debug\net10.0\ref\TareaSemana10.dll
